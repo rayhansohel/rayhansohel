@@ -1,0 +1,55 @@
+[
+    {
+      "id": "01",
+      "title": "Carvex",
+      "description": "A comprehensive full-stack solution developed with React and Node.js, designed to streamline task management and enhance team collaboration effectively.",
+      "techStack": ["React", "Node.js", "Express", "MongoDB"],
+      "liveLink": "https://carvex.netlify.app/",
+      "githubLink": "https://github.com/programming-hero-web-course2/b10a11-client-side-RayhanSohel",
+      "challenges": [
+        "Problem with database integration due to schema mismatch.",
+        "UI responsiveness issues on mobile due to complex CSS layout."
+      ],
+      "improvements": [
+        "Improve performance with better state management using Redux.",
+        "Enhance UI design for mobile-first approach, including media queries and flexible layouts."
+      ],
+      "image": "https://i.ibb.co/K52hz8Z/carvex.jpg"
+    },
+    {
+      "id": "02",
+      "title": "Phingee",
+      "description": "This is a WordPress-based website developed with custom themes and plugins, focusing on user experience and easy content management.",
+      "techStack": ["WordPress", "PHP"],
+      "liveLink": "https://phingee.com",
+      "githubLink": "Not Available",
+      "challenges": [
+        "Optimizing WordPress performance for high traffic sites.",
+        "Compatibility issues between different plugins and WordPress updates."
+      ],
+      "improvements": [
+        "Improve site speed with better caching and lazy loading techniques.",
+        "Enhance security features by integrating additional security plugins."
+      ],
+      "image": "https://i.ibb.co/t3z5KNb/phingee.jpg"
+    },
+    {
+      "id": "03",
+      "title": "Gamer Crit",
+      "description": "A full-stack application built with React and Node.js to help users manage tasks and collaborate with others efficiently.",
+      "techStack": ["React", "Node.js", "MongoDB"],
+      "liveLink": "https://gamercrit.netlify.app/",
+      "githubLink": "https://github.com/programming-hero-web-course2/b10-a10-client-side-RayhanSohel",
+      "challenges": [
+        "Dealing with asynchronous requests and ensuring seamless user interaction.",
+        "Managing user authentication and authorization securely."
+      ],
+      "improvements": [
+        "Implement real-time updates using WebSockets.",
+        "Refactor the codebase to improve maintainability and readability."
+      ],
+      "image": "https://i.ibb.co/vdQvzWY/gamercrit.jpg"
+    }
+  ]
+  
+  
