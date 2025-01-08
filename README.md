@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="310" src="https://raw.githubusercontent.com/rayhansohel/rayhansohel/refs/heads/main/src/assets/rayhansohel_banner.jpg"  />
+  <img height="" src="https://raw.githubusercontent.com/rayhansohel/rayhansohel/refs/heads/main/src/assets/rayhansohel_banner.jpg"  />
 </div>
 
 ###
