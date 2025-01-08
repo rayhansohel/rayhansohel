@@ -34,13 +34,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🛠 LANGUAGE SKILLS</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -58,13 +54,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🛠 DESIGN SKILLS</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
