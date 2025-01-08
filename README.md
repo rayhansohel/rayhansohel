@@ -26,7 +26,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  ABOUT ME</h3>
+<h3 align="left">Hello! I am Rayhan Sohel</h3>
+
+###
+
+<p align="left">A passionate Frontend Developer from Bangladesh</p>
+
+###
+
+<h1 align="left">👩‍💻  ABOUT ME</h1>
 
 ###
 
@@ -34,7 +42,7 @@
 
 ###
 
-<h3 align="left">🛠 LANGUAGE SKILLS</h3>
+<h1 align="left">🛠 LANGUAGE SKILLS</h1>
 
 ###
 
@@ -54,7 +62,7 @@
 
 ###
 
-<h3 align="left">🛠 DESIGN SKILLS</h3>
+<h1 align="left">🛠 DESIGN SKILLS</h1>
 
 ###
 
@@ -67,9 +75,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥 MY STATE</h3>
 
 ###
