@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I’m a Creative Fontend Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning MERN<br>-  🎯 Goals: Becaome a FullStack Developer by 2025</p>
+<p align="left">I’m a Creative Font End Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>🔭 I’m working as Freelancer<br>📚 I'm currently learning MERN<br>🎯 Goals: Becaome a FullStack Developer by 2025</p>
 
 ###
 
