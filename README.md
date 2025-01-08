@@ -34,7 +34,7 @@
 
 ###
 
-<h1 align="left">👩‍💻  ABOUT ME</h1>
+<h3 align="left">👩‍💻  ABOUT ME</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h1 align="left">🛠 LANGUAGE SKILLS</h1>
+<h3 align="left">🛠 LANGUAGE SKILLS</h3>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h1 align="left">🛠 DESIGN SKILLS</h1>
+<h3 align="left">🛠 DESIGN SKILLS</h3>
 
 ###
 
