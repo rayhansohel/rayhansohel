@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="" src="https://raw.githubusercontent.com/rayhansohel/rayhansohel/refs/heads/main/src/assets/rayhansohel_banner.jpg"  />
+  <img height="" src="https://raw.githubusercontent.com/rayhansohel/rayhansohel/refs/heads/main/src/assets/others/rayhansohel_banner.png"  />
 </div>
 
 ###
@@ -10,13 +10,13 @@
   <a href="https://www.linkedin.com/in/arayhansohel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:arayhansohel@gmail.com" target="_blank">
+  <a href="arayhansohel@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://x.com/rrayhanSohel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X%20(Twitter)&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="tel:+8801719403406" target="_blank">
+  <a href="+8801719403406" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
   <a href="https://www.facebook.com/RayhanSohel" target="_blank">
