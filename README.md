@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="" src="https://raw.githubusercontent.com/rayhansohel/rayhansohel/refs/heads/main/src/assets/others/rayhansohel_banner.png"  />
+  <img height="" src="https://raw.githubusercontent.com/rayhansohel/rayhansohel/refs/heads/main/src/assets/others/rayhansohe-bannar-linkedin.png"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">A passionate Frontend Developer from Bangladesh</p>
+<p align="left">A passionate Web Developer from Bangladesh</p>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I’m a Creative Font End Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning MERN<br>-  🎯 Goals: Becaome a FullStack Developer by 2025</p>
+<p align="left">I’m a Creative Web Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>Also WordPress developer creating stunning, functional, and user-friendly websites with a focus on design and seamless experiences.<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning MERN<br>-  🎯 Goals: Becaome a FullStack Developer by 2025</p>
 
 ###
 
@@ -65,6 +65,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
 ###
