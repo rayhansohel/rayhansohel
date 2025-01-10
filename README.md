@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">A passionate Frontend Developer from Bangladesh</p>
+<p align="left">A passionate Frontend Developer from Bangladesh.</p>
 
 ###
 
