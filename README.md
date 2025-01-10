@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="" src="https://raw.githubusercontent.com/rayhansohel/rayhansohel/refs/heads/main/src/assets/others/rayhansohe-bannar-linkedin.png"  />
+  <img height="" src="https://raw.githubusercontent.com/rayhansohel/rayhansohel/refs/heads/main/src/assets/others/rayhansohel_banner.png"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">A passionate Web Developer from Bangladesh</p>
+<p align="left">A passionate Frontend Developer from Bangladesh</p>
 
 ###
 
