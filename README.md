@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">🛠 DESIGN SKILLS</h3>
+<h3 align="left">🧑‍🎨 DESIGN SKILLS</h3>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h3 align="left">🛠 MY STATS </h3>
+<h3 align="left">📊 MY STATS </h3>
 
 ###
 
