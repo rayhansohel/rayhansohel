@@ -80,3 +80,11 @@
 </div>
 
 ###
+
+<h3 align="left">🛠 MY STATS </h3>
+
+###
+
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=rayhansohel&theme=shadow-purple" alt="GitHub Streak">
+</a>
