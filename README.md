@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I’m a Creative Web Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>Also WordPress developer creating stunning, functional, and user-friendly websites with a focus on design and seamless experiences.<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning MERN<br>-  🎯 Goals: Becaome a FullStack Developer by 2025</p>
+<p align="left">I’m a Creative Web Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>Also WordPress developer creating stunning, functional, and user-friendly websites with a focus on design and seamless experiences.<br><br>- 🔭 I’m a Frontend Developer <br>- 📚 I'm currently learning MERN<br>-  🎯 Goals: Becaome a FullStack Developer by 2025</p>
 
 ###
 
