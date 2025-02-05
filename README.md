@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">Hello! I am Rayhan Sohel</h3>
+<h2 align="left">Hello! I am Rayhan Sohel</h2>
 <p align="left">A passionate Web Developer from Bangladesh.</p><br>
 
 ###
