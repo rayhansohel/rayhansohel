@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">A passionate Web Developer from Bangladesh.</p><br><br>
+<p align="left">A passionate Web Developer from Bangladesh.</p><br>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I’m a Creative Web Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>Also I am a WordPress developer creating stunning, functional, and user-friendly websites with a focus on design and seamless experiences.<br><br>- ❤️ I love creating unique things. <br>- 📚 I'm currently learning Next Js.<br>-  🎯 Contribute to the AI industry.</p>
+<p align="left">I’m a Creative Web Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>Also I am a WordPress developer creating stunning, functional, and user-friendly websites with a focus on design and seamless experiences.<br><br>- ❤️ I love creating unique things. <br>- 📚 I'm currently learning Next Js.<br>-  🎯 Contribute to the AI industry.</p><br>
 
 ###
 
@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-</div>
+</div><br>
 
 ###
 
@@ -77,7 +77,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-</div>
+</div><br>
 
 ###
 
