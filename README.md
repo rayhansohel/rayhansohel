@@ -88,14 +88,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rayhansohel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhansohel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div><br>
-
-###
-
-###
-
-<h3 align="left">📊 MY STREAK </h3>
-
-###
 <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=rayhansohel&theme=dracula&border_radius=2&card_width=470" alt="GitHub Streak">
 </a>
