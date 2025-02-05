@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">A passionate Frontend Developer from Bangladesh.</p>
+<p align="left">A passionate Web Developer from Bangladesh.</p>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I’m a Creative Web Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>Also WordPress developer creating stunning, functional, and user-friendly websites with a focus on design and seamless experiences.<br><br>- 🔭 I’m a Frontend Developer <br>- 📚 I'm currently learning MERN<br>-  🎯 Goals: Becaome a FullStack Developer by 2025</p>
+<p align="left">I’m a Creative Web Developer and Designer. With my broad range of skills and expertise, I’m always excited to take on new projects and create something truly unique.<br><br>Also I am a WordPress developer creating stunning, functional, and user-friendly websites with a focus on design and seamless experiences.<br><br>- ❤️ I love creating unique things. <br>- 📚 I'm currently learning Next Js.<br>-  🎯 Contribute to the AI industry.</p>
 
 ###
 
@@ -85,6 +85,10 @@
 
 ###
 
-<a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=rayhansohel&theme=github-dark&card_width=500" alt="GitHub Streak">
-</a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhansohel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhansohel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rayhansohel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
