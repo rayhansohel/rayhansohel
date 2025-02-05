@@ -97,5 +97,5 @@
 
 ###
 <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=rayhansohel&theme=dracula&border_radius=2&card_width=480" alt="GitHub Streak">
+    <img src="https://nirzak-streak-stats.vercel.app?user=rayhansohel&theme=dracula&border_radius=2&card_width=470" alt="GitHub Streak">
 </a>
