@@ -11,15 +11,6 @@ const About = () => {
       <div>
         <div className="p-4">
           <div className="container mx-auto max-w-7xl space-y-8">
-            {/* Header Section */}
-            <div className="w-full text-center flex items-center flex-col">
-              <h3 className="uppercase opacity-70">About Me</h3>
-              <h1 className="text-4xl uppercase mt-2 mb-6">
-                
-                A Little More About Me
-              </h1>
-            </div>
-
             {/* Content Section */}
             <div className="md:flex gap-6 items-center">
               {/* Photo Section */}

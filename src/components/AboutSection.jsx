@@ -31,7 +31,7 @@ const AboutSection = () => {
 
   return (
     <div id="about" className="p-4">
-      <div className="space-y-6 w-full container mx-auto max-w-7xl items-center py-6 md:py-16">
+      <div className="space-y-6 w-full container mx-auto max-w-7xl items-center pt-6 md:pt-16">
         <motion.div
           className="w-full text-center flex items-center flex-col animate-on-scroll"
           initial={{ opacity: 0, y: 50 }}
@@ -110,9 +110,9 @@ const AboutSection = () => {
           </div>
           <div className="bg-base-200 rounded-box px-6 py-4">
             <h3 className="uppercase text-accent font-poppins pb-4">Experience</h3>
-            <p className="opacity-70">2022-Present</p>
-            <h2 className="text-lg">Freelance Web Developer and Designer</h2>
-            <p className="opacity-70">Freelancing Marketplace</p>
+            <p className="opacity-70">2023-Present</p>
+            <h2 className="text-lg">Web Developer (Remote)</h2>
+            <p className="opacity-70">Nextechub based in Bangladesh</p>
           </div>
         </motion.div>
       </div>

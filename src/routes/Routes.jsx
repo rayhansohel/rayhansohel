@@ -4,9 +4,6 @@ import Error404 from "../pages/Error404";
 import Home from "../pages/Home";
 import About from "../pages/About";
 import Contact from "../pages/Contact";
-import AuthLayout from "../layouts/AuthLayout";
-import Login from "../pages/Login";
-import Register from "../pages/Register";
 import ProjectDetails from "../pages/projectDetails";
 import Projects from "../pages/Projects";
 import Skills from "../pages/Skills";
@@ -42,23 +39,6 @@ const Routes = createBrowserRouter([
       {
         path: "/project/:id",
         element: <ProjectDetails />,
-      },
-    ],
-  },
-
-  //Auth route
-  {
-    path: "/auth",
-    element: <AuthLayout />,
-    errorElement: <Error404 />,
-    children: [
-      {
-        path: "login",
-        element: <Login />,
-      },
-      {
-        path: "register",
-        element: <Register />,
       },
     ],
   },

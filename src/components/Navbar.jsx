@@ -1,26 +1,16 @@
 import { Link } from "react-router-dom";
 import { useContext } from "react";
-import { AuthContext } from "../contexts/AuthContext";
 import ThemeContext from "../contexts/ThemeContext";
 import BrandLogoLight from "../assets/logo/rs-logo-light.png";
 import BrandLogoDark from "../assets/logo/rs-logo-dark.png";
-import Lottie from "lottie-react";
-import loadingAnimation from "../assets/animations/Loading.json";
 import Menu from "./Menu";
 import Dropdown from "./Dropdown";
 import ThemeToggle from "./ThemeToggle";
 
 const Navbar = () => {
-  const { loading } = useContext(AuthContext);
+
   const { theme } = useContext(ThemeContext);
 
-  if (loading) {
-    return (
-      <div className="navbar">
-        <Lottie animationData={loadingAnimation} className="w-32" />
-      </div>
-    );
-  }
 
   return (
     <div className="p-4">

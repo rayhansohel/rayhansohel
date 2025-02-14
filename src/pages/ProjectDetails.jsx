@@ -16,24 +16,24 @@ const ProjectDetails = () => {
         <title>Rayhan Sohel - Project - {project.title} </title>
       </Helmet>
       <div className="container mx-auto max-w-7xl space-y-6 py-6 md:py-16">
-        <div className="flex flex-col gap-8 items-center max-w-3xl mx-auto">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center w-full mx-auto">
 
           
           {/* Project Image */}
-          <div className="w-full">
+          <div className="w-full h-full overflow-hidden">
             <img
               src={project.image}
               alt={project.title}
-              className="rounded-3xl w-full"
+              className="rounded-3xl h-full w-full object-cover"
             />
           </div>
           <div className="w-full">
             {/* Project Info */}
             <div className="space-y-4 w-full">
-              <h1 className="text-4xl pl-6 font-bold uppercase text-accent">
+              <h1 className="text-4xl font-bold uppercase">
                 {project.title}
               </h1>
-              <p className="opacity-80 pl-6">{project.description}</p>
+              <p className="opacity-80">{project.description}</p>
 
               {/* TechStack,Challenges and Improvements */}
               <div className="space-y-4 bg-base-200 rounded-3xl p-6">

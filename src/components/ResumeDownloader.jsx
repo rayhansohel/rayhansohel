@@ -6,7 +6,7 @@ const ResumeDownloader = () => {
         <a
           target="_balnk"
           className="btn btn-sm btn-primary"
-          href="https://drive.google.com/file/d/1nX8GiXPEzsIQD-TnUjrCUpHq_2nOqdp3/view?usp=sharing"
+          href="https://drive.google.com/file/d/1HEGDe4IWFm40pJFhqptEfK2cKOfQ0zzf/view?usp=sharing"
         >
           Download Resume
         </a>

@@ -1,15 +1,10 @@
 import { useState, useRef, useEffect } from "react";
 import { HiMenu } from "react-icons/hi";
 import { IoClose } from "react-icons/io5";
-import { NavLink } from "react-router-dom";
-import { useContext } from "react";
-import defaultAvatar from "../assets/others/default-avatar.png";
-import { AuthContext } from "../contexts/AuthContext";
 import Menu from "./Menu";
 
 const Dropdown = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const { user, logOut } = useContext(AuthContext);
   const dropdownRef = useRef(null);
 
   const toggleDropdown = () => {

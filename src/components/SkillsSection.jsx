@@ -35,7 +35,7 @@ const SkillsSection = () => {
 
   return (
     <div id="skills" className="p-4">
-      <div className="space-y-6 w-full container mx-auto max-w-7xl items-center pb-6 md:pb-16">
+      <div className="space-y-6 w-full container mx-auto max-w-7xl items-center pt-6 md:pt-16">
         <div className="w-full text-center flex items-center flex-col">
           <h3 className="uppercase opacity-70">My Skills</h3>
           <div className="flex items-center justify-center w-full gap-4 mt-2">

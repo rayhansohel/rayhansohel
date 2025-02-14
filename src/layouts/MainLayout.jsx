@@ -14,7 +14,7 @@ const MainLayout = () => {
   }, []);
   
   return (
-    <div className="text-sm text-secondary">
+    <div className="text-sm text-secondary w-11/12 mx-auto">
       <div className="sticky top-0 z-50">
         {/* load navvar here */}
         <Navbar />

@@ -1,78 +1,66 @@
-import { useState } from 'react';
+import { useRef } from "react";
+import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import emailjs from "@emailjs/browser";
 
 const ContactForm = () => {
-  const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    message: '',
-  });
-  const [status, setStatus] = useState('');
-
-  // Handle input changes
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    setFormData((prevData) => ({
-      ...prevData,
-      [name]: value,
-    }));
-  };
+  const form = useRef();
 
   // Handle form submission
-  const handleSubmit = async (e) => {
+  const sendEmail = async (e) => {
     e.preventDefault();
-    setStatus('Sending...');
-    
-    try {
-      const response = await fetch('http://localhost:5000/send-email', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(formData),
-      });
 
-      if (response.ok) {
-        setStatus('Message sent successfully!');
-      } else {
-        setStatus('Failed to send message.');
-      }
+    if (!form.current) return;
+
+    try {
+      await emailjs.sendForm(
+        "service_17iiarl",
+        "template_eojf38b",
+        form.current,
+        {
+          publicKey: "22EN8vr03AmvSFy6n",
+        }
+      );
+      toast.success("Message sent successfully!");
+      form.current.reset();
     } catch (error) {
-      setStatus('Error occurred while sending message.');
+      toast.error("Failed to send message. Please try again.");
+      console.error("Email sending failed:", error);
     }
   };
 
   return (
-    <div>
-      <h3>Contact Me</h3>
-      <form onSubmit={handleSubmit}>
+    <div className="col-span-1 md:col-span-2 bg-base-200 p-6 rounded-3xl">
+      <h3 className="mb-4 uppercase">Send Message</h3>
+      <form ref={form} className="space-y-4" onSubmit={sendEmail}>
         <input
           type="text"
-          name="name"
+          name="user_name"
           placeholder="Your Name"
-          value={formData.name}
-          onChange={handleChange}
           required
+          className="input input-sm w-full rounded-full"
         />
         <input
           type="email"
-          name="email"
+          name="user_email"
           placeholder="Your Email"
-          value={formData.email}
-          onChange={handleChange}
+          className="input input-sm w-full rounded-full"
           required
         />
         <textarea
           name="message"
-          placeholder="Your Message"
-          value={formData.message}
-          onChange={handleChange}
+          className="textarea w-full rounded-xl"
+          placeholder="Type your message here..."
+          rows="5"
           required
         />
-        <button type="submit">Send Message</button>
+        <button type="submit" className="btn btn-sm btn-primary">
+          Send Message
+        </button>
       </form>
-      <p>{status}</p>
     </div>
   );
 };
 
 export default ContactForm;
+

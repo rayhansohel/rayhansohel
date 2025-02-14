@@ -1,11 +1,28 @@
 [
     {
       "id": "01",
+      "title": "Edifica",
+      "description": "Edifica is a comprehensive Building Management System (BMS) designed for a single building. It provides intuitive interfaces for users, members, and administrators to efficiently.",
+      "techStack": ["React", "Node.js", "Express", "MongoDB", "Tanstack Quary"],
+      "liveLink": "https://edificaa.netlify.app/",
+      "githubLink": "https://github.com/rayhansohel/edifica",
+      "challenges": [
+        "Problem with dashboard integration due to route secure.",
+        "UI responsiveness issues on mobile due to complex CSS layout."
+      ],
+      "improvements": [
+        "Improve performance with better state management using react state.",
+        "Enhance UI design for mobile-first approach, including media queries."
+      ],
+      "image": "https://i.ibb.co.com/G47gpX9V/edifica.png"
+    },
+    {
+      "id": "02",
       "title": "Carvex",
       "description": "A comprehensive full-stack solution developed with React and Node.js, designed to streamline task management and enhance team collaboration effectively.",
       "techStack": ["React", "Node.js", "Express", "MongoDB"],
       "liveLink": "https://carvex.netlify.app/",
-      "githubLink": "https://github.com/programming-hero-web-course2/b10a11-client-side-RayhanSohel",
+      "githubLink": "https://github.com/rayhansohel/carvex",
       "challenges": [
         "Problem with database integration due to schema mismatch.",
         "UI responsiveness issues on mobile due to complex CSS layout."
@@ -14,10 +31,10 @@
         "Improve performance with better state management using Redux.",
         "Enhance UI design for mobile-first approach, including media queries and flexible layouts."
       ],
-      "image": "https://i.ibb.co.com/hFdYmWZ/3.jpg"
+      "image": "https://i.ibb.co.com/qL4w8Jcm/carvex.png"
     },
     {
-      "id": "02",
+      "id": "03",
       "title": "Phingee",
       "description": "This is a WordPress-based website developed with custom themes and plugins, focusing on user experience and easy content management.",
       "techStack": ["WordPress", "PHP"],
@@ -31,15 +48,15 @@
         "Improve site speed with better caching and lazy loading techniques.",
         "Enhance security features by integrating additional security plugins."
       ],
-      "image": "https://i.ibb.co.com/qdtSdxS/1.jpg"
+      "image": "https://i.ibb.co.com/2YnmJK3s/phingee.png"
     },
     {
-      "id": "03",
+      "id": "04",
       "title": "Gamer Crit",
       "description": "A full-stack application built with React and Node.js to help users manage tasks and collaborate with others efficiently.",
       "techStack": ["React", "Node.js", "MongoDB"],
       "liveLink": "https://gamercrit.netlify.app/",
-      "githubLink": "https://github.com/programming-hero-web-course2/b10-a10-client-side-RayhanSohel",
+      "githubLink": "https://github.com/rayhansohel/gamercrit",
       "challenges": [
         "Dealing with asynchronous requests and ensuring seamless user interaction.",
         "Managing user authentication and authorization securely."
@@ -48,7 +65,7 @@
         "Implement real-time updates using WebSockets.",
         "Refactor the codebase to improve maintainability and readability."
       ],
-      "image": "https://i.ibb.co.com/JjcFGgV/2.jpg"
+      "image": "https://i.ibb.co.com/XkXgt4ZS/gamercrit.png"
     }
   ]
   

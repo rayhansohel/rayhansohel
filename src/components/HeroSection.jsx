@@ -31,7 +31,7 @@ const HeroSection = () => {
 
   return (
     <div id="home" className="p-4">
-      <div className="md:flex gap-4 space-y-6 w-full container mx-auto max-w-7xl items-center">
+      <div className="md:flex gap-4 space-y-6 w-full container mx-auto max-w-7xl items-center pt-6 md:pt-10">
         <motion.div
           className="space-y-2 flex-grow animate-on-scroll"
           initial={{ opacity: 0, x: -100 }}

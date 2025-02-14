@@ -13,7 +13,7 @@ const SocialLinks = () => {
           href="https://github.com/RayhanSohel"
           target="_blank"
           rel="noopener noreferrer"
-          className="w-9 h-9 flex bg-base-300 items-center justify-center rounded-full hover:text-accent transition-colors"
+          className="w-9 h-9 flex bg-base-200 items-center justify-center rounded-full hover:text-accent transition-colors"
         >
           <PiGithubLogoBold className="text-lg" />
         </a>
@@ -21,7 +21,7 @@ const SocialLinks = () => {
           href="https://www.linkedin.com/in/arayhansohel"
           target="_blank"
           rel="noopener noreferrer"
-          className="w-9 h-9 flex bg-base-300 items-center justify-center rounded-full hover:text-accent transition-colors"
+          className="w-9 h-9 flex bg-base-200 items-center justify-center rounded-full hover:text-accent transition-colors"
         >
           <LuLinkedin className="text-lg" />
         </a>
@@ -29,7 +29,7 @@ const SocialLinks = () => {
           href="https://www.facebook.com/RayhanSohel"
           target="_blank"
           rel="noopener noreferrer"
-          className="w-9 h-9 flex bg-base-300 items-center justify-center rounded-full hover:text-accent transition-colors"
+          className="w-9 h-9 flex bg-base-200 items-center justify-center rounded-full hover:text-accent transition-colors"
         >
           <FiFacebook className="text-lg" />
         </a>
@@ -37,7 +37,7 @@ const SocialLinks = () => {
           href="https://x.com/rrayhanSohel"
           target="_blank"
           rel="noopener noreferrer"
-          className="w-9 h-9 flex bg-base-300 items-center justify-center rounded-full hover:text-accent transition-colors"
+          className="w-9 h-9 flex bg-base-200 items-center justify-center rounded-full hover:text-accent transition-colors"
         >
           <FaXTwitter />
         </a>
@@ -45,7 +45,7 @@ const SocialLinks = () => {
           href="https://www.instagram.com/arayhansohel/"
           target="_blank"
           rel="noopener noreferrer"
-          className="w-9 h-9 flex bg-base-300 items-center justify-center rounded-full hover:text-accent transition-colors"
+          className="w-9 h-9 flex bg-base-200 items-center justify-center rounded-full hover:text-accent transition-colors"
         >
           <FaInstagram className="text-lg" />
         </a>
