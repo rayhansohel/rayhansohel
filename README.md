@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="" src="https://github.com/rayhansohel/rayhansohel/blob/main/src/assets/others/rayhansohe-bannar-linkedin.png"  />
+  <img height="" src="https://github.com/rayhansohel/rayhansohel/blob/main/src/assets/others/github-rs.jpg"  />
 </div>
 
 ###
